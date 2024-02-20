@@ -1,1 +1,1 @@
-# curso-angular
+# curso-angular para iniciantes
